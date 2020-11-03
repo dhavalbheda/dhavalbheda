@@ -17,8 +17,8 @@
 
  **Programing Language**
 
-<img alt="Python3" width="40px" src="https://img.icons8.com/color/480/000000/python.png"/>|<img alt="C++" width="40px" src="https://img.icons8.com/color/480/000000/c-plus-plus-logo.png"/>|<img alt="Java" width="40px" src="https://img.icons8.com/color/480/000000/java-coffee-cup-logo.png"/>|<img alt="C#" width="40px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>|<img alt="Ruby" width="40px" src="https://img.icons8.com/color/48/000000/ruby-programming-language.png"/>
- |--|--|--|--|--|
+<img alt="Python3" width="40px" src="https://img.icons8.com/color/480/000000/python.png"/>|<img alt="C++" width="40px" src="https://img.icons8.com/color/480/000000/c-plus-plus-logo.png"/>|<img alt="Javascript" width="40px" src="https://img.icons8.com/color/480/000000/javascript-logo-1.png"/>|<img alt="Java" width="40px" src="https://img.icons8.com/color/480/000000/java-coffee-cup-logo.png"/>|<img alt="C#" width="40px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>|<img alt="Ruby" width="40px" src="https://img.icons8.com/color/48/000000/ruby-programming-language.png"/>
+ |--|--|--|--|--|--|
 <br/>
 
  **Tools**
