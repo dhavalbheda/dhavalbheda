@@ -10,17 +10,21 @@
 
  **Technologies**
 
- <img alt="Node.js" width="50px" src="https://img.icons8.com/color/480/000000/nodejs.png"/>|<img alt="django" width="50px" src="https://img.icons8.com/color/500/000000/django.png"/>|<img alt="React" width="40px" src="https://img.icons8.com/cute-clipart/50/000000/react-native.png"/>|<img alt="Redux" width="40px" src="https://img.icons8.com/color/480/000000/redux.png"/>|<img alt="MongoDB" width="40px" src="https://img.icons8.com/color/480/000000/mongodb.png"/>|<img alt="SQL" width="40px" src="https://img.icons8.com/ios-filled/100/000000/sql.png"/>|<img alt="Bootstrap" width="40px" src="https://img.icons8.com/color/50/000000/bootstrap.png"/>|<img alt="HTML5" width="40px" src="https://img.icons8.com/color/480/000000/html-5.png"/>|<img alt="Css3" width="40px" src=" https://img.icons8.com/color/480/000000/css3.png" />
- |--|--|--|--|--|--|--|--|--|--|
+ <img alt="Node.js" width="50px" src="https://img.icons8.com/color/480/000000/nodejs.png"/>|<img alt="django" width="50px" src="https://img.icons8.com/color/500/000000/django.png"/>|<img alt="React" width="40px" src="https://img.icons8.com/cute-clipart/50/000000/react-native.png"/>|<img alt="Redux" width="40px" src="https://img.icons8.com/color/480/000000/redux.png"/>|<img alt="MongoDB" width="40px" src="https://img.icons8.com/color/480/000000/mongodb.png"/>|<img alt="SQL" width="40px" src="https://img.icons8.com/ios-filled/100/000000/sql.png"/>|<img alt="Bootstrap" width="40px" src="https://img.icons8.com/color/50/000000/bootstrap.png"/>|<img alt="HTML5" width="40px" src="https://img.icons8.com/color/480/000000/html-5.png"/>|<img alt="Css3" width="40px" src="https://img.icons8.com/color/480/000000/css3.png"/>
+ |--|--|--|--|--|--|--|--|--|
+<br/>
+<br/>
 
  **Programing Language**
 
 <img alt="Python3" width="40px" src="https://img.icons8.com/color/480/000000/python.png"/>|<img alt="C++" width="40px" src="https://img.icons8.com/color/480/000000/c-plus-plus-logo.png"/>|<img alt="Java" width="40px" src="https://img.icons8.com/color/480/000000/java-coffee-cup-logo.png"/>|<img alt="C#" width="40px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>|<img alt="Ruby" width="40px" src="https://img.icons8.com/color/48/000000/ruby-programming-language.png"/>
-|--|--|--|--|--|
+ |--|--|--|--|--|
+<br/>
+<br/>
 
  **Tools**
  <img alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>|<img alt="Git" width="40px" src="https://img.icons8.com/color/48/000000/git.png"/>|<img alt="Git Hub" width="40px" src="https://img.icons8.com/fluent/240/000000/github.png"/>|<img alt="Postman" width="40px" src="https://img.icons8.com/dusk/512/000000/postman-api.png"/>|<img alt="MS Office" width="40px" src="https://img.icons8.com/fluent/48/000000/microsoft-office-2019.png"/>
- |--|--|--|--|--|--|--|--|--|
+ |--|--|--|--|--|
 
  <br/><br/>
  <h1>Connect with Me</h1>
