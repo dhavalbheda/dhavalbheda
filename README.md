@@ -25,7 +25,7 @@
  <img alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>|<img alt="Git" width="40px" src="https://img.icons8.com/color/48/000000/git.png"/>|<img alt="Git Hub" width="40px" src="https://img.icons8.com/fluent/240/000000/github.png"/>|<img alt="Postman" width="40px" src="https://img.icons8.com/dusk/512/000000/postman-api.png"/>|<img alt="MS Office" width="40px" src="https://img.icons8.com/fluent/48/000000/microsoft-office-2019.png"/>
  |--|--|--|--|--|
  <br/>
- <h1>Connect with Me</h1>
+ <h1>Get In Touch</h1>
 
 [<img align="left" alt="Dhaval Bheda" width="40px"  src="https://img.icons8.com/cotton/64/000000/earth-planet--v2.png"/>](https://www.dhavalbheda.tech) 
 [<img align="left" alt="LinkedIn - Dhaval Bheda" width="45px" src="https://img.icons8.com/fluent/96/000000/linkedin.png"/>](https://www.linkedin.com/in/dhavalbheda) 
