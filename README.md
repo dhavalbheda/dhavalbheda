@@ -7,7 +7,7 @@
 <b>I'm an energetic, enthusiastic, and self-learner with always passionate about learning new technologies.</b> 
 <br/><br/>
 <br/>
-<h1>Skills</h1>
+<h1>Skills<img  src="https://media.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif"  style="padding-left:20px" width="75"></h1>
 <br/>
 
  **Technologies**
@@ -31,4 +31,6 @@
 [<img align="left" alt="LinkedIn - Dhaval Bheda" width="45px" src="https://img.icons8.com/fluent/96/000000/linkedin.png"/>](https://www.linkedin.com/in/dhavalbheda) 
 [<img align="left" alt="Email - Dhaval Bheda" width="40px" src="https://img.icons8.com/cute-clipart/64/000000/upload-mail.png" />](mailto:dhavalbhedadb@gmail.com) 
 [<img align="left" alt="Hackerrank - Dhaval Bheda" width="40px" src="https://img.icons8.com/windows/512/000000/hackerrank.png"/>](https://hackerrank.com/dhavalbheda)
-[<img align="left" alt="Instagram - Dhaval Bheda" width="45px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>](https://www.instagram.com/dhaval__bheda) 
+[<img align="left" alt="Instagram - Dhaval Bheda" width="45px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>](https://www.instagram.com/dhaval__bheda)
+<br/>
+<img src="https://media.giphy.com/media/sUHnQhe6GJloCs53Rv/giphy.gif" width="300">
